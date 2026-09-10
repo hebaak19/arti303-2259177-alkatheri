@@ -45,9 +45,9 @@ def letter_grade(gpa):
     """Return the letter grade corresponding to a GPA."""
     if gpa >= 3.7:
         return 'A'
-    elif gpa >= 3.0:
+    elif gpa >= 2.7:
         return 'B'
-    elif gpa >= 2.0:
+    elif gpa >= 1.7:
         return 'C'
     elif gpa >= 1.0:
         return 'D'
