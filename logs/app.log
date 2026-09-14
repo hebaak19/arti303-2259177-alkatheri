@@ -1,0 +1,6 @@
+2026-09-14 09:09:56,280 | INFO     | Logger ready
+2026-09-14 09:09:56,281 | WARNING  | This is what a warning looks like
+2026-09-14 09:12:30,779 | WARNING  | Skipping bad row: Faisal Alharbi,N/A
+2026-09-14 09:12:30,780 | WARNING  | Skipping bad row: Omar Alshehri,
+2026-09-14 09:12:38,079 | ERROR    | File not found: data/nope.csv
+2026-09-14 09:12:47,752 | ERROR    | File not found: data/nope.csv
