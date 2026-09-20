@@ -1,4 +1,6 @@
+# TODO: add the patterns
 __pycache__/
-.ipynb_checkpoints/
 .venv/
+logs/
 kaggle.json
+.env
