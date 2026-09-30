@@ -1,0 +1,13 @@
+student_id,name,gender,gpa,credits,dept,status
+1001,Sara Alotaibi,F,4.6,95.0,CE,active
+1002,Faisal Alharbi,M,3.9,88.0,CE,active
+1003,Lama Alqahtani,F,4.85,102.0,CE,active
+1004,Omar Alshehri,M,,76.0,CS,active
+1005,Noura Alzahrani,F,2.95,64.0,CS,inactive
+1006,Khalid Almutairi,M,3.4,,CE,active
+1007,Reem Alharbi,F,4.5,91.0,BME,active
+1008,Yousef Alqahtani,M,1.85,45.0,CS,inactive
+1009,Hala Alotaibi,F,4.2,83.0,BME,active
+1010,Bader Alanazi,M,3.75,79.0,CE,active
+1011,Maha Alsubaie,F,,58.0,BME,inactive
+1012,Turki Aldossari,M,4.95,110.0,CS,active
